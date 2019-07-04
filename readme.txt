@@ -2,7 +2,7 @@
 
 The game board consists of sixteen "cards" arranged in a grid. The deck is made up of eight different pairs of cards
 
-Each turn:
+Each turns:
 
 - The player flips one card over to reveal its underlying symbol.
 - The player then turns over a second card, trying to find the corresponding card with the same symbol.
